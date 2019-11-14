@@ -1,2 +1,2 @@
-**Base origial sem os campos NA**
+**Base origial sem os campos NA**  
 **Jupyter notes do processo de divisão**
