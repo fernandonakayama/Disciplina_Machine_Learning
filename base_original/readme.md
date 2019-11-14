@@ -1,1 +1,1 @@
-Base origial fornecida
+**Base origial sem os campos NA**
