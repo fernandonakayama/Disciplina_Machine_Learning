@@ -35,3 +35,21 @@ O que deve ser entregue
 - Apresentação (Slides em PDF) para uma apresentação de 10 minutos.
 
 Os trabalhos podem ser realizados em grupo de no máximo DUAS pessoas.
+
+### Códigos e Resultados
+
+**a) Base Desbalanceada**
+
+[Bases de dados](https://github.com/fernandonakayama/Disciplina_Machine_Learning/tree/master/base_balanceada/bases) para cada tipo de seleção de características
+- Treino
+- Validação
+- Teste 
+
+**b) Bases Balanceadas**
+
+[Códigos](https://github.com/fernandonakayama/Disciplina_Machine_Learning/tree/master/base_balanceada/codigos) utilizados no desenvolvimento do trabalho
+
+**c) Resultados**
+
+[Resultados](https://github.com/fernandonakayama/Disciplina_Machine_Learning/tree/master/base_balanceada/resultados) completos que não foram reportados no artigo
+
