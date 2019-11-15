@@ -10,9 +10,9 @@ Alunos:
 
 ### Bases balanceadas
 
-**a) Base original**
+**a) Base original sem os campos NA**
 
-Base de dados original sem os campos NA
+- credit_no_na.tar.gz
 
 **b) Algoritmo para remoção dos campos NA**
 
