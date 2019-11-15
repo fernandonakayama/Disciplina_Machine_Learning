@@ -46,7 +46,7 @@ Base de dados original sem os campos NA e os algoritmos para divisão da base co
 
 **b) Base Desbalanceada**
 
-Base desbalanceada, notebooks para Jupyter e resultados completos não reportados no artigo.
+[Base desbalanceada](https://github.com/fernandonakayama/Disciplina_Machine_Learning/tree/master/base_desbalanceada), notebooks para Jupyter e resultados completos não reportados no artigo.
 
 **c) Base Balanceada**
 
