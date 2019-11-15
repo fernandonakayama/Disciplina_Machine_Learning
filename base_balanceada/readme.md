@@ -1,8 +1,26 @@
+## Disciplina de Aprendizagem de Máquina
+**INFO7004 2/2019**
+
+**Trabalho final - Arquivos relacionados**
+
+Alunos:
+- Fernando Nakayama (fernandonakayama@ufpr.br)
+
+- Agnaldo de Souza Batista (asbatista@ufpr.br)
+
+### Bases balanceadas
+
 **Bases**
-Bases separadas com treino, validação e teste para cada tipo de seleção de características
+
+Bases de dados para cada tipo de seleção de características
+- Treino
+- Validação
+- Teste 
 
 **Código**
+
 Códigos utilizados no desenvolvimento do trabalho
 
 **Resultados**
-Resultados completos que não foram inseridos no trabalho
+
+Resultados completos que não foram reportados no artigo
