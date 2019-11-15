@@ -38,18 +38,17 @@ Os trabalhos podem ser realizados em grupo de no máximo DUAS pessoas.
 
 ### Códigos e Resultados
 
-**a) Base Desbalanceada**
+Estão disponíveis para consulta e reprodução dos experimentos realizados o conteúdo abaixo relacionado.
 
-[Bases de dados](https://github.com/fernandonakayama/Disciplina_Machine_Learning/tree/master/base_balanceada/bases) para cada tipo de seleção de características
-- Treino
-- Validação
-- Teste 
+**a) Base Original**
 
-**b) Bases Balanceadas**
+Base de dados original sem os campos NA e os algoritmos para divisão da base conforme enunciado do trabalho.
 
-[Códigos](https://github.com/fernandonakayama/Disciplina_Machine_Learning/tree/master/base_balanceada/codigos) utilizados no desenvolvimento do trabalho
+**b) Base Desbalanceada**
 
-**c) Resultados**
+Base desbalanceada, notebooks para Jupyter e resultados completos não reportados no artigo.
 
-[Resultados](https://github.com/fernandonakayama/Disciplina_Machine_Learning/tree/master/base_balanceada/resultados) completos que não foram reportados no artigo
+**c) Base Balanceada**
+
+Base balanceada, notebooks para Jupyter e resultados completos não reportados no artigo.
 
