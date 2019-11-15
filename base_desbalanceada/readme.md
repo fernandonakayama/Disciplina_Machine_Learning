@@ -19,7 +19,7 @@ Alunos:
 
 **b) Código**
 
-Códigos utilizados no desenvolvimento do trabalho
+[Códigos](https://github.com/fernandonakayama/Disciplina_Machine_Learning/tree/master/base_desbalanceada/codigos) utilizados no desenvolvimento do trabalho
 
 **c) Resultados**
 
