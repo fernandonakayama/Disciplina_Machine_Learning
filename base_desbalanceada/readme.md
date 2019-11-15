@@ -23,4 +23,4 @@ Alunos:
 
 **c) Resultados**
 
-Resultados completos que não foram reportados no artigo
+[Resultados](https://github.com/fernandonakayama/Disciplina_Machine_Learning/tree/master/base_desbalanceada/resultados) completos que não foram reportados no artigo
