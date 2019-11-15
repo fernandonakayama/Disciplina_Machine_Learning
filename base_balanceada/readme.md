@@ -10,17 +10,17 @@ Alunos:
 
 ### Bases balanceadas
 
-**Bases**
+**a) Bases**
 
 Bases de dados para cada tipo de seleção de características
 - Treino
 - Validação
 - Teste 
 
-**Código**
+**b) Código**
 
 Códigos utilizados no desenvolvimento do trabalho
 
-**Resultados**
+**c) Resultados**
 
 Resultados completos que não foram reportados no artigo
