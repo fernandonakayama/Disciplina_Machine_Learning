@@ -8,7 +8,7 @@ Alunos:
 
 - Agnaldo de Souza Batista (asbatista@ufpr.br)
 
-### Enunciado do trabalho
+### 1. Enunciado do trabalho
 
 O trabalho consiste em classificar cliente inadimplentes utilizando algoritmos de aprendizagem de máquina.
 
@@ -36,7 +36,7 @@ O que deve ser entregue
 
 Os trabalhos podem ser realizados em grupo de no máximo DUAS pessoas.
 
-### Códigos e Resultados
+### 2. Códigos e Resultados
 
 Estão disponíveis para consulta e reprodução dos experimentos realizados o conteúdo abaixo relacionado.
 
