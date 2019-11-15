@@ -42,7 +42,7 @@ Estão disponíveis para consulta e reprodução dos experimentos realizados o c
 
 **a) Base Original**
 
-Base de dados original sem os campos NA e os algoritmos para divisão da base conforme enunciado do trabalho.
+[Base de dados original](https://github.com/fernandonakayama/Disciplina_Machine_Learning/tree/master/base_original) sem os campos NA e os algoritmos para divisão da base conforme enunciado do trabalho.
 
 **b) Base Desbalanceada**
 
