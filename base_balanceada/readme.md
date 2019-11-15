@@ -12,7 +12,7 @@ Alunos:
 
 **a) Bases**
 
-Bases de dados para cada tipo de seleção de características
+[Bases de dados](https://github.com/fernandonakayama/Disciplina_Machine_Learning/tree/master/base_balanceada/bases) para cada tipo de seleção de características
 - Treino
 - Validação
 - Teste 
