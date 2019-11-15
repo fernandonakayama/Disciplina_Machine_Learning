@@ -50,5 +50,5 @@ Base desbalanceada, notebooks para Jupyter e resultados completos não reportado
 
 **c) Base Balanceada**
 
-Base balanceada, notebooks para Jupyter e resultados completos não reportados no artigo.
+[Base balanceada](https://github.com/fernandonakayama/Disciplina_Machine_Learning/tree/master/base_balanceada), notebooks para Jupyter e resultados completos não reportados no artigo.
 
