@@ -12,9 +12,11 @@ Alunos:
 
 **a) Base original**
 
-Base de dados original sem os campos NA 
+Base de dados original sem os campos NA
 
 **b) Algoritmo para remoção dos campos NA**
+
+- remove_NA.ipynb
 
 **c) Algoritmos para divisão da base orginal**
 
