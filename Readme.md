@@ -36,7 +36,13 @@ O que deve ser entregue
 
 Os trabalhos podem ser realizados em grupo de no máximo DUAS pessoas.
 
-### 2. Códigos e Resultados
+### 2. Trabalho e Apresentação
+
+[Trabalho final](https://github.com/fernandonakayama/Disciplina_Machine_Learning/blob/master/Trabalho_Final_Agnaldo_Fernando.pdf "Trabalho final")
+
+[Apresentação do Trabalho](https://github.com/fernandonakayama/Disciplina_Machine_Learning/blob/master/Apresentacao_Trabalho_Final_Agnaldo_Fernando.pdf "Apresentação do Trabalho")
+
+### 3. Códigos e Resultados
 
 Estão disponíveis para consulta e reprodução dos experimentos realizados o conteúdo abaixo relacionado.
 
@@ -51,4 +57,3 @@ Estão disponíveis para consulta e reprodução dos experimentos realizados o c
 **c) Base Balanceada**
 
 [Base balanceada](https://github.com/fernandonakayama/Disciplina_Machine_Learning/tree/master/base_balanceada), notebooks para Jupyter e resultados completos não reportados no artigo.
-
